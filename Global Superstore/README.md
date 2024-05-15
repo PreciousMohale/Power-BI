@@ -6,7 +6,7 @@ This Power BI project explores data within the Global Superstore to offer valuab
 # **Objective**
 The Power BI Dashboard project aims to address key business targets through a rigorious data analysis and visualisation. This project explored:
 - Customer Segmentation
-  -Overall Sales, Profit and Profit Margin
+- Overall Sales, Profit and Profit Margin
 - Quantity and units sold over the years, months and days
 - Sales and Profit by City, Region and Market
 - Shipping modes and costs
