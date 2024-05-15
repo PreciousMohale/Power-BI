@@ -12,6 +12,6 @@ The Power BI Dashboard project aims to address key business targets through a ri
 - Shipping modes and costs
 
 # **Dashboards**
-![Sheet 1](https://github.com/PreciousMohale/Power-BI/blob/main/PBI%20Project%201/dashboard%202.png)
+![Sheet 1](https://github.com/PreciousMohale/Power-BI/blob/main/Global%20Superstore/dashboard%202.png)
 
-![Sheet 2](https://github.com/PreciousMohale/Power-BI/blob/main/PBI%20Project%201/dashboard%201.png)
+![Sheet 2]()
