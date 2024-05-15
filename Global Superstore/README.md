@@ -14,4 +14,4 @@ The Power BI Dashboard project aims to address key business targets through a ri
 # **Dashboards**
 ![Sheet 1](https://github.com/PreciousMohale/Power-BI/blob/main/Global%20Superstore/dashboard%202.png)
 
-![Sheet 2]()
+![Sheet 2](https://github.com/PreciousMohale/Power-BI/blob/main/Global%20Superstore/dashboard%201.png)
