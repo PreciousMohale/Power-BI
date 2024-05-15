@@ -1,4 +1,4 @@
-##**Empowering Insights with Power BI: A Data Analyst's Journey**
+## **Empowering Insights with Power BI: A Data Analyst's Journey**
 
 As a data analyst, I thrive on transforming raw data into actionable insights. My secret weapon? Power BI. With its intuitive interface and robust capabilities, I've crafted compelling visualizations, interactive dashboards, and data-driven narratives. Here's how I wield this powerful tool:
 
