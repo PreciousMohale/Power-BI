@@ -7,4 +7,4 @@ This Power BI project explores data within the Global Superstore to offer valuab
 The Power BI Dashboard project aims to address key business targets through a rigorious data analysis and visualisation
 
 # **Dashboards**
-![alt text](
+![Sheet 1]()
