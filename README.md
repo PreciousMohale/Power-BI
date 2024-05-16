@@ -8,7 +8,7 @@ As a data analyst, I thrive on transforming raw data into actionable insights. M
 2. **Visual Storytelling**:
    - Power BI's drag-and-drop features allow me to build stunning visuals. From bar charts to heat maps, I craft engaging representations that resonate with stakeholders.
 
-3. **DAX Sorcery**:
+3. **DAX**:
    - I utilise DAX (Data Analysis Expressions) to write calculated columns, measures, and time intelligence functions. Need a rolling average or a cumulative total? I've got you covered.
 
 4. **Dynamic Dashboards**:
